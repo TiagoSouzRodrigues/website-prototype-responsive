@@ -74,7 +74,7 @@ a.a-header:hover {
   }
 
   #nav.active #menu {
-    height: calc(100vh - 70px);
+    height: calc(60vh - 70px);
     visibility: visible;
     overflow-y: auto;
     background: #172940;
@@ -83,7 +83,7 @@ a.a-header:hover {
   #menu a {
     padding: 1rem 0;
     margin: 0 1rem;
-    border-bottom: 2px solid;
+    border-bottom: 1px solid gray;
   }
 
   #btn-mobile {
