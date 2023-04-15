@@ -8,6 +8,7 @@ ul {
 }
 .logo-1 {
   width: 52px;
+  margin-top:10px;
 }
 
 a.a-header {
@@ -44,7 +45,7 @@ a.a-header:hover {
 
 #menu a {
   display: block;
-  padding: 0.5rem;
+  padding: 1rem;
 }
 
 #btn-mobile {
