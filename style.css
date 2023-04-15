@@ -13,19 +13,13 @@ ul {
 a.a-header {
   color: rgb(255, 255, 255);
   text-decoration: none;
-  font-family: sans-serif;
+  font-family: "Euclid Circular A", "Poppins";
 }
 
 a.a-header:hover {
   background-color: #bfbaca99;
   border-radius: 10px;
   color: black;
-}
-
-#logo {
-  font-size: 1.5rem;
-  font-weight: bold;
-  font-family: sans-serif;
 }
 
 #header {
@@ -142,6 +136,7 @@ a.a-header:hover {
 /*Main*/
 main{
   padding-top:30px;
+  font-family:"Euclid Circular A", "Poppins";
 }
 .contain {
   margin: 40px;
