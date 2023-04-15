@@ -29,8 +29,10 @@ a.a-header:hover {
 }
 
 #header {
+  position:fixed;
   box-sizing: border-box;
   height: 70px;
+  width:100vw;
   padding: 1rem;
   display: flex;
   align-items: center;
@@ -137,6 +139,9 @@ a.a-header:hover {
 }
 
 /*Main*/
+main{
+  padding-top:30px;
+}
 .contain {
   margin: 40px;
   text-align: center;
