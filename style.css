@@ -245,6 +245,7 @@ footer.bottom .links {
 
 @media (width < 620px) {
   footer {
+    align-items:center;
     flex-direction: column;
   }
 
